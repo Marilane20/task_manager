@@ -26,7 +26,7 @@ public class Task {
         this.title = title;
     }
 
-    public void MarkCompleted() {
+    public void markCompleted() {
         this.completed = true;
     }
 
